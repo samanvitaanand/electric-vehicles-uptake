@@ -27,22 +27,22 @@ Choropleth map showing total EVs per county overlaid with orange markers for fue
 
 ---
 
-### 2. EV Registration Trends Over Time (2017 – 2024)
-Line plot tracking Battery Electric Vehicles (BEVs), Plug-In Hybrid Electric Vehicles (PHEVs), and total EVs from 2017 to 2024. Total EV registrations surged from under 25,000 to over 175,000 — a nearly sevenfold increase. BEVs drove the majority of growth, accelerating sharply after 2021. PHEVs grew steadily but more slowly, reaching around 40,000 by 2024.
+### 2. EV Registration Trends Over Time (2017 - 2024)
+Line plot tracking Battery Electric Vehicles (BEVs), Plug-In Hybrid Electric Vehicles (PHEVs), and total EVs from 2017 to 2024. Total EV registrations surged from under 25,000 to over 175,000, a nearly sevenfold increase. BEVs drove the majority of growth, accelerating sharply after 2021. PHEVs grew steadily but more slowly, reaching around 40,000 by 2024.
 
 ![EV Registration Trends](Trends_in_electric_ehicle_registrations.png)
 
 ---
 
-### 3. Vehicle Electrification Level by Month (Jan 2020 – Apr 2024)
+### 3. Vehicle Electrification Level by Month (Jan 2020 - Apr 2024)
 Stacked bar chart showing the monthly percentage mix of vehicle types registered in Washington state. ICE vehicles (green) have declined from dominating nearly all registrations to a noticeably smaller share by 2024. BEVs (blue) and Strong HEVs (pink) have both grown steadily month over month. PHEVs have remained relatively consistent throughout.
 
 ![Vehicle Electrification by Month](Vehicle_Electrification_Level_by_Month.png)
 
 ---
 
-### 4. Vehicle Registration Trends by County and Fuel Type (Jan 2020 – Apr 2024)
-County-level breakdown of all vehicle registrations by fuel type. King County dominates with over 500,000 total registrations, including a visible green segment representing electric vehicles — the largest EV count of any county. Gasoline (blue) is still the majority fuel type across all counties. The chart makes clear how concentrated registration activity is in the Puget Sound region compared to eastern Washington.
+### 4. Vehicle Registration Trends by County and Fuel Type (Jan 2020 - Apr 2024)
+County-level breakdown of all vehicle registrations by fuel type. King County dominates with over 500,000 total registrations, including a visible green segment representing electric vehicles, the largest EV count of any county. Gasoline (blue) is still the majority fuel type across all counties. The chart makes clear how concentrated registration activity is in the Puget Sound region compared to eastern Washington.
 
 ![Registration by County and Fuel Type](Vehicle_Registratio_Trends_by_Count_and_Fuel_Typer.png)
 
@@ -55,7 +55,7 @@ Folium map showing clustered fuel station counts across the state, color-coded b
 
 ---
 
-### 6. Top 10 Counties by EV Count (Apr 2017 – Sep 2023)
+### 6. Top 10 Counties by EV Count (Apr 2017 - Sep 2023)
 Stacked bar chart comparing total vehicle counts (EV vs non-electric) across the top 10 counties. King County is the clear leader with nearly 140M total vehicle-registrations recorded, with a visible blue EV segment. Snohomish and Pierce follow. The EV segment is small relative to total vehicles in all counties, reinforcing that EVs are still a minority even in high-adoption areas.
 
 ![Top 10 Counties](orane.png)
@@ -75,9 +75,9 @@ Python, Pandas, Plotly, Folium
 
 ## Datasets
 
-- [EV Share of New Registrations](https://data.wa.gov/Transportation/Electric-Vehicle-Share-of-New-Registrations/wzin-vviu) — data.wa.gov
-- [EV Population Size History by County](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Size-History-By-County/3d5d-sdqb) — data.wa.gov
-- [Fuel Station Locations](https://afdc.energy.gov/fuels/electricity_locations.html) — afdc.energy.gov
-- [US County Boundaries](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/table/) — opendatasoft.com
-- [County Population Estimates](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html) — US Census Bureau
+- [EV Share of New Registrations](https://data.wa.gov/Transportation/Electric-Vehicle-Share-of-New-Registrations/wzin-vviu) - data.wa.gov
+- [EV Population Size History by County](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Size-History-By-County/3d5d-sdqb) - data.wa.gov
+- [Fuel Station Locations](https://afdc.energy.gov/fuels/electricity_locations.html) - afdc.energy.gov
+- [US County Boundaries](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/table/) - opendatasoft.com
+- [County Population Estimates](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html) - US Census Bureau
 
