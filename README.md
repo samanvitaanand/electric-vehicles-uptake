@@ -23,7 +23,7 @@ Analyzing the adoption of electric vehicles across Washington state, focusing on
 ### 1. Population Density and Fuel Station Distribution
 Choropleth map showing total EVs per county overlaid with orange markers for fuel station locations. King County (yellow) stands out as the densest area for both EVs and charging infrastructure. Snohomish and Skagit counties also show high concentrations. Rural eastern Washington is almost entirely underserved.
 
-![Population Density and Fuel Stations](Population_Density_between_counties_and_location of_fuel_stations.png)
+![Population Density and Fuel Stations](Population_Density_between_counties_and_location_of_fuel_stations.png)
 
 ---
 
